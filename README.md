@@ -2,7 +2,7 @@
 The dashboard provides a comprehensive overview of hospital performance by tracking key metrics such as total visits, patient satisfaction, and average waiting time, enabling better decision-making in healthcare management.
 
 <h3>Dataset:</h3>
-<a href="Analyst_case_study_dataset_edited.xls">Link</a>
+<a href="Healthcare dataset.xlsx">Link</a>
 <h3><b>Dashboard:</b></h3>
 <img src="">
 <br>
