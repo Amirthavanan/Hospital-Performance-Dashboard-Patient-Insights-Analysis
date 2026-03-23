@@ -4,7 +4,7 @@ The dashboard provides a comprehensive overview of hospital performance by track
 <h3>Dataset:</h3>
 <a href="Healthcare dataset.xlsx">Link</a>
 <h3><b>Dashboard:</b></h3>
-<img src="">
+<img src="Screenshot 2026-03-05 131456.png">
 <br>
 <h3><b> Key Features:</b></h3>
 
